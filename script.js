@@ -468,7 +468,7 @@ const products = [
   { id: 171, name: "UNISEX Choke Me Daddy printed T-shirt", category: "Fashion", price: 14.40, rating: 4.2, reviews: 84, badge: "Best Seller", image: "newprods/unisex.jpg", description: "A comfortable and stylish t-shirt for everyday wear.", bulkMin: 3, bulkDiscount: 0.14 },
   { id: 172, name: "Portable Electric Grill", category: "Home", price: 25.99, rating: 4.4, reviews: 82, badge: "Best Seller", image: "newprods/bbq.jpg", description: "A portable electric grill for convenient outdoor cooking.", bulkMin: 3, bulkDiscount: 0.14 },
   { id: 173, name: "Nike- Air Max", category: "Fashion", price: 300.00, rating: 4.9, reviews: 122, badge: "Trending", image: "newprods/nike.jpg", description: "A pair of trendy Nike Air Max sneakers.", bulkMin: 3, bulkDiscount: 0.14 },
-  { id: 173, name: "Adidas- Samba Shoe ", category: "Fashion", price: 70.00, rating: 4.4, reviews: 102, badge: "Trending", image: "newprods/adidas.jpg", description: "A pair of trendy Adidas Samba shoes for casual fits and cool looks.", bulkMin: 3, bulkDiscount: 0.14 },
+  { id: 174, name: "Adidas- Samba Shoe ", category: "Fashion", price: 70.00, rating: 4.4, reviews: 102, badge: "Trending", image: "newprods/adidas.jpg", description: "A pair of trendy Adidas Samba shoes for casual fits and cool looks.", bulkMin: 3, bulkDiscount: 0.14 },
  ];
 
 const currencyRates = {
