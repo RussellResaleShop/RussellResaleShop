@@ -471,7 +471,8 @@ const products = [
   { id: 174, name: "Adidas- Samba Shoe ", category: "Fashion", price: 70.00, rating: 4.4, reviews: 102, badge: "Trending", image: "newprods/adidas.jpg", description: "A pair of trendy Adidas Samba shoes for casual fits and cool looks.", bulkMin: 3, bulkDiscount: 0.14 },
   { id: 175, name: "Medicube PDRN PINK PEPTIDE ", category: "Beauty", price: 30.00, rating: 4.2, reviews: 92, badge: "Hot", image: "newprods/medi1.jpg", description: "A nice luxurious and affordable beauty product.", bulkMin: 3, bulkDiscount: 0.14 },
   { id: 176, name: "Medicube PDRN Multi Balm", category: "Beauty", price: 20.00, rating: 4.7, reviews: 135, badge: "Best Seller", image: "newprods/medi2.jpg", description: "A very luxurious and affordable balm .", bulkMin: 3, bulkDiscount: 0.14 },
- ];
+ 
+];
 
 const currencyRates = {
   USD: { rate: 1, symbol: "$" },
